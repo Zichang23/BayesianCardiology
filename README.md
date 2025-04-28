@@ -84,6 +84,6 @@ Figure below shows the diagnostic plots, where the convergence measure drops nea
 
 #### 4.3 Model Comparison
 
-We compared the performance of Model 1 and Model 2 using DIC:
+We compared the performance of Model 1 and Model 2 using DIC. A lower DIC indicates a better model. According to the Table below, model 2 has a lower DIC, indicating a better fit.
 
 <img src="docs/DIC.png" width="400" />
