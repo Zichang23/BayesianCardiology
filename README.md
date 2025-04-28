@@ -70,8 +70,10 @@ $$f(\rho_{T,1}, \rho_{T,2}) \propto 1$$
 
 Two methods were used to check the convergence of Markov chains for Model 1 and Model 2: trace plot and Gelman-Rubin diagnostic.
 
+<img src="docs/trace.png" width="450" />
 
 #### 4.3 Model Comparison
 
 We compared the performance of Model 1 and Model 2 using DIC:
 
+<img src="docs/DIC.png" width="400" />
