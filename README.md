@@ -8,7 +8,11 @@ This project examines heart disease mortality trends in Texas, the second-larges
 
 Summary Statistics
 
+<img src="docs/summary.png" width="400" />
+
 Relative Risk
+
+<img src="docs/risk.png" width="250" />
 
 Map of the average standardized mortality rate of heart disease from 2011 to 2020
 
