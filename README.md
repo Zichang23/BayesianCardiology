@@ -76,9 +76,11 @@ Trace plots for each parameter are shown below, indicating convergence of all th
 
 The Gelman-Rubin diagnostic checks if the chains have mixed well, with values below 1.1 showing good convergence. The gelman.diag function calculates this for each chain and all chains together. Table below shows a point estimate of 1 and a 95% confidence interval close to 1, along with a multivariate value of 1, indicating the chains are well mixed. 
 
-
+<img src="docs/rubin_table.png" width="300" />
 
 Figure below shows the diagnostic plots, where the convergence measure drops near 1 for all chains. To avoid bias from the first 1000 iterations, it’s better to increase the number of burn-in iterations.
+
+<img src="docs/rubin_plot.png" width="500" />
 
 #### 4.3 Model Comparison
 
