@@ -6,13 +6,16 @@ This project examines heart disease mortality trends in Texas, the second-larges
 
 ### 2. Data Exploration and Visualization
 
-* Summary Statistics
+2.1 Summary Statistics
 
-* Relative Risk
+2.2 Relative Risk
 
-* Scatterplot of the relationship between factors and standardized mortality rate
+2.3 Scatterplot of the relationship between factors and standardized mortality rate
 
-* 
+
+2.4 Map of the average standardized mortality rate of heart disease from 2011 to 2020
+
+<img src="docs/map.png" width="300" />
 
 ### 3. Missing Data
 
