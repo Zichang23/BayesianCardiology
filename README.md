@@ -14,9 +14,9 @@ This project examines heart disease mortality trends in Texas, the second-larges
 
 * 
 
-### 2. Missing Data
+### 3. Missing Data
 
-### 3. Bayesian Modeling
+### 4. Bayesian Modeling
 
 
 
