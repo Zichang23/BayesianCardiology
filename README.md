@@ -24,6 +24,8 @@ Map of the average standardized mortality rate of heart disease from 2011 to 202
 
 In this project, we compare the performance of two bayesian models with and without considering spatio-temporal effect. Below are the model specification of the two models.
 
+4.1 Model Specification
+
 Model 1: Poisson model ignoring spatio-temporal effect
 
 $$Y_{ij} \backsim Poi(E_{ij}\lambda_{ij})$$
@@ -63,3 +65,9 @@ $$\tau^2 \backsim \text{Inverse-Gamma}(1, 0.01)$$
 $$\rho_s \backsim \text{Uniform}(0,1)$$
 
 $$f(\rho_{T,1}, \rho_{T,2}) \propto 1$$
+
+4.2 Checking convergence and diagnostics
+
+Two methods were used to check the convergence of Markov chains for Model 1 and Model 2: trace plot and Gelman-Rubin diagnostic.
+
+
